@@ -1,0 +1,8 @@
+Email = input("Enter your Email")
+Passcode = input("Enter your Passcode")
+email = 'sibonginkosindlovu@gmail.com' 
+passcode = 'simmy'
+if Email == email and Passcode == passcode:
+    print("welcome simmy")
+else:
+    print("login failed")
